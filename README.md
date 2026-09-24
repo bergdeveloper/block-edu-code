@@ -122,6 +122,9 @@ Desenvolvedor Java Full Stack
 - Plataforma: https://blockeducode.com.br
 
 ## Participantes
+
+**ROBERTA MARIA SILVA SANTOS**
+
 **CARLOS ANDRÉ ALVES FERREIRA**
 
 **MÁVERICK ANDRÉ DIONÍSIO FERREIRA**
@@ -129,3 +132,4 @@ Desenvolvedor Java Full Stack
 **DÉBORA DA CONCEIÇÃO ARAÚJO**
 
 **RAFAEL FERREIRA LEITE DE MELLO**
+
